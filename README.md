@@ -25,9 +25,9 @@ This project demonstrates a **Voice Assistant Conversational Chatbot** that prov
 pip install -r requirements.txt
 ```
 # 2. Run the application:
-``bash
+```bash
 streamlit run app.py
-
+```
 
 # Skills Developed
 * Python: Core language for implementing the chatbot logic, integrating libraries, and handling API interactions.
